@@ -1,2 +1,2 @@
-selenium == selenium 4.3.0
-pytest == 7.1.1
+selenium == 4.3.0
+pytest == 7.1.1gi
